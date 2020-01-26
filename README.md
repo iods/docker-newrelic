@@ -11,7 +11,7 @@ A sidecar for New Relic APM with Docker.
 Facts
 -----
 
- * Version 0.1
+ * Version 0.2
  * [Repository on GitHub](https://github.com/iods/newrelic-docker)
  * [Docker Hub](https://hub.docker.com/r/iods/newrelic)
  
